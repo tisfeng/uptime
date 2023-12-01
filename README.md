@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Tisfeng.github.io/Upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://Upptime.izual.me/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Tisfeng](https://Tisfeng.github.io/Upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
