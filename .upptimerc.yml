@@ -8,7 +8,7 @@ sites:
   - name: MyChatGPT
     url: https://chatgpt.izual.me
   - name: ChatGPT
-    url: https://chat.openai.com/
+    url: https://chat.openai.com
   - name: Wikipedia
     url: https://en.wikipedia.org
 
