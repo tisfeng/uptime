@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: DeepLX
     url: https://deeplx.izual.me
+  - name: one-api
+    url: https://oneapi.izual.me
   - name: MyChatGPT
     url: https://chatgpt.izual.me
   - name: ChatGPT
