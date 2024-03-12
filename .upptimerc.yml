@@ -13,8 +13,6 @@ sites:
     url: https://inpaint.izual.me
   - name: Gemini Proxy
     url: https://gemini.izual.me
-  - name: Gemini Proxy
-    url: https://gemini.izual.me
   - name: cf-image-hosting
     url: https://image.izual.me
   - name: short-link
