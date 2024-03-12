@@ -5,15 +5,25 @@ repo: uptime # The name of this repository
 sites:
   - name: DeepLX
     url: https://deeplx.izual.me
-  - name: one-api
-    url: https://oneapi.izual.me
-  - name: MyChatGPT
-    url: https://chatgpt.izual.me
-  - name: ChatGPT
-    url: https://chat.openai.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-
+  - name: Ollama
+    url: https://ollama.izual.me
+  - name: LobeChat
+    url: https://chat.izual.me
+  - name: Inpaint
+    url: https://inpaint.izual.me
+  - name: Gemini Proxy
+    url: https://gemini.izual.me
+  - name: Gemini Proxy
+    url: https://gemini.izual.me
+  - name: cf-image-hosting
+    url: https://image.izual.me
+  - name: short-link
+    url: https://s.izual.me
+  - name: ipcheck
+    url: https://ipcheck.izual.me
+  - name: Quick Reference
+    url: https://ref.izual.me
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
